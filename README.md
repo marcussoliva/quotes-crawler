@@ -1,6 +1,6 @@
 # Quotes Crawler
 
-A web crawling and web scraping example with [Scrapy](http://quotes.toscrape.com/).
+A web crawling and web scraping example with [Scrapy](https://scrapy.org/).
 
 ## Configuration
 
