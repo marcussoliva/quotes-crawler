@@ -5,7 +5,7 @@ from quotescrawler.items import QuoteItem
 
 
 class QuoteSpider(scrapy.Spider):
-    name = "home_page"
+    name = "quote_home_page"
     allowed_domains = ['quotes.toscrape.com']
     start_urls = ['http://quotes.toscrape.com/']
 

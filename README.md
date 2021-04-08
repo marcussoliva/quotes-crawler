@@ -14,5 +14,5 @@ pip install -r requirements.txt
 ## Run crawler 
 
 ```bash
-scrapy crawl home_page
+scrapy crawl quote_home_page
 ```
